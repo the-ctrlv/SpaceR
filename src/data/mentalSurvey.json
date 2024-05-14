@@ -1,0 +1,169 @@
+[
+  {
+    "qid": "Q1",
+    "q": "How did you sleep last night?",
+    "type": "radio",
+    "options": [
+      {
+        "id": "Q1A1",
+        "a": "very poorly"
+      },
+      {
+        "id": "Q1A2",
+        "a": "poorly"
+      },
+      {
+        "id": "Q1A3",
+        "a": "average"
+      },
+      {
+        "id": "Q1A4",
+        "a": "well"
+      },
+      {
+        "id": "Q1A5",
+        "a": "very well"
+      }
+    ]
+  },
+
+  {
+    "qid": "Q2",
+    "q": "On a scale from 1 to 10, rate your stress level today. (1 being least stressed, 10 being most stressed)",
+    "label": "Answer:",
+    "type": "int_range",
+    "atype": "int",
+    "range": {
+      "low": 1,
+      "high": 10,
+      "step": 1
+    }
+  },
+  {
+    "qid": "Q3",
+    "q": "Did any specific event today notably affect your mood or well-being? If yes, briefly describe.",
+    "type": "text"
+  },
+
+  {
+    "qid": "Q4",
+    "q": "Which emotions did you predominantly feel today? (Choose all that apply)",
+    "type": "multichoice",
+    "options": [
+      {
+        "id": "Q4A1",
+        "a": "Happy"
+      },
+      {
+        "id": "Q4A2",
+        "a": "Sad"
+      },
+      {
+        "id": "Q4A3",
+        "a": "Anxious"
+      },
+      {
+        "id": "Q4A4",
+        "a": "Excited"
+      },
+      {
+        "id": "Q4A5",
+        "a": "Irritated"
+      },
+      {
+        "id": "Q4A6",
+        "a": "Indifferent"
+      }
+    ]
+  },
+  {
+    "qid": "Q5",
+    "q": "How many hours of uninterrupted sleep did you get last night?",
+    "type": "number"
+  },
+  {
+    "qid": "Q6",
+    "q": "Reflect on any interactions you had today that stood out to you – whether positive or negative.",
+    "type": "textarea"
+  },
+  {
+    "qid": "Q7",
+    "q": "Overall, how would you describe your mood today?",
+    "type": "radio",
+    "options": [
+      {
+        "id": "Q7A1",
+        "a": "very poor"
+      },
+      {
+        "id": "Q7A2",
+        "a": "poor"
+      },
+      {
+        "id": "Q7A3",
+        "a": "neutral"
+      },
+      {
+        "id": "Q7A4",
+        "a": "good"
+      },
+      {
+        "id": "Q7A5",
+        "a": "very good"
+      }
+    ]
+  },
+  {
+    "qid": "Q8",
+    "q": "If you had the opportunity to send a message to your future self at the end of this simulation, what would you convey based on today's experience?",
+    "type": "textarea"
+  },
+  {
+    "qid": "Q9",
+    "q": " On average, how many minutes did you spend alone today?",
+    "type": "number"
+  },
+  {
+    "qid": "Q10",
+    "q": "In a scale from 1 to 10, how connected did you feel with other participants today?",
+    "type": "int_range",
+    "atype": "int",
+    "range": {
+      "low": 1,
+      "high": 10,
+      "step": 1
+    }
+  },
+  {
+    "qid": "Q11",
+    "q": "Are there any immediate concerns or suggestions for enhancing your experience in this simulation?",
+    "type": "text"
+  },
+  {
+    "qid": "Q12",
+    "q": "What relaxation activities did you engage in today? (Select all that apply)",
+    "type": "multichoice",
+    "options": [
+      {
+        "id": "Q12A1",
+        "a": "Reading"
+      },
+      {
+        "id": "Q12A2",
+        "a": "Meditation"
+      },
+      {
+        "id": "Q12A3",
+        "a": "Physical exercise"
+      },
+      {
+        "id": "Q12A4",
+        "a": "Listening to music"
+      },
+      {
+        "id": "Q12A5",
+        "a": "Conversing with fellow participants"
+      }
+    ]
+  }
+]

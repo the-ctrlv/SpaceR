@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Sensor A",
+    "status": "working"
+  },
+  {
+    "id": 2,
+    "name": "Sensor B",
+    "status": "issue"
+  },
+  {
+    "id": 3,
+    "name": "Sensor C",
+    "status": "error"
+  },
+  {
+    "id": 4,
+    "name": "Sensor D",
+    "status": "working"
+  },
+  {
+    "id": 5,
+    "name": "Sensor E",
+    "status": "working"
+  },
+  {
+    "id": 6,
+    "name": "Sensor F",
+    "status": "working"
+  }
+]

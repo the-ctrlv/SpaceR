@@ -1,0 +1,7 @@
+[
+  { "label": "Show all", "value": "all" },
+  { "label": "Need to do", "value": "need-to-do" },
+  { "label": "Done", "value": "done" },
+  { "label": "In progress", "value": "progress" },
+  { "label": "Overdue", "value": "overdue" }
+]

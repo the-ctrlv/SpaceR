@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "status": "working",
+    "description": "Sensor is working normally",
+    "short_description": "Working"
+  },
+  {
+    "id": 2,
+    "status": "issue",
+    "description": "Sensor has an issue",
+    "short_description": "Issue"
+  },
+  {
+    "id": 3,
+    "status": "error",
+    "description": "Sensor is not working",
+    "short_description": "Error"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "qid": "Q1",
+    "q": "How long are you planning on training today?",
+    "type": "radio",
+    "options": [
+      { "id": 30, "a": "30 minutes" },
+      { "id": 45, "a": "45 minutes" },
+      { "id": 60, "a": "60 minutes" }
+    ]
+  },
+  {
+    "qid": "prw2",
+    "q": "How prepared for your workout do you feel today?",
+    "a": 5,
+    "type": "int_range",
+    "label": "Answer:",
+    "atype": "int",
+    "range": {
+      "low": 1,
+      "high": 10,
+      "step": 1
+    }
+  },
+  {
+    "qid": "prw3",
+    "q": "How many hours of sleep did you get last night?",
+    "a": 5,
+    "type": "int_range",
+    "label": "Answer:",
+    "atype": "int",
+    "range": {
+      "low": 0,
+      "high": 10,
+      "step": 1
+    }
+  }
+]

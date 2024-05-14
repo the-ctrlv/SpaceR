@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "All data",
+    "subtitle": "Download all your data",
+    "description": "This will download all your data in a single file"
+  },
+  {
+    "id": 2,
+    "title": "Activity Data",
+    "subtitle": "Download your activity data",
+    "description": "This will download all your activity data in a single file"
+  },
+  {
+    "id": 3,
+    "title": "Wearable Data",
+    "subtitle": "Download your weareble data",
+    "description": "This will download all your wearable data in a single file"
+  },
+  {
+    "id": 4,
+    "title": "Water Data",
+    "subtitle": "Download your water data",
+    "description": "This will download all your water data in a single file"
+  },
+  {
+    "id": 5,
+    "title": "Additional Data",
+    "subtitle": "Download additional data",
+    "description": "This will download all your additional data in a single file"
+  }
+]

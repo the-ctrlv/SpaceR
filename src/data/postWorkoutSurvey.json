@@ -1,0 +1,28 @@
+[
+  {
+    "q": "How challenging did you find this workout? 1: Way too easy 2: Too easy, ramp it up a little 3: Challenging but appropriate for me 4: Difficult but I managed 5: Too hard",
+    "a": 3,
+    "type": "int_range",
+    "label": "Answer:",
+    "atype": "int",
+    "range": {
+      "low": 1,
+      "high": 5,
+      "step": 1
+    },
+    "qid": "pw1"
+  },
+  {
+    "q": "Did you like this type of workout today?",
+    "a": 5,
+    "type": "int_range",
+    "label": "Answer:",
+    "atype": "int",
+    "range": {
+      "low": 1,
+      "high": 10,
+      "step": 1
+    },
+    "qid": "pw2"
+  }
+]

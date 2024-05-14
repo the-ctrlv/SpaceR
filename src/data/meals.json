@@ -1,0 +1,202 @@
+[
+  {
+    "mealName": "Scrambled Eggs and Avocado Toast",
+    "mealType": "breakfast",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 plate",
+    "calories": 370,
+    "carbs": 29,
+    "fat": 22,
+    "protein": 16
+  },
+  {
+    "mealName": "Greek Yogurt with Mixed Berries and Honey",
+    "mealType": "breakfast",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 bowl",
+    "calories": 190,
+    "carbs": 26,
+    "fat": 2,
+    "protein": 20
+  },
+  {
+    "mealName": "Oatmeal with Fresh Fruits and Nuts",
+    "mealType": "breakfast",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 bowl",
+    "calories": 350,
+    "carbs": 55,
+    "fat": 11,
+    "protein": 11
+  },
+  {
+    "mealName": "Protein Smoothie with Spinach, Banana and Almond Milk",
+    "mealType": "breakfast",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 glass",
+    "calories": 320,
+    "carbs": 48,
+    "fat": 5,
+    "protein": 20
+  },
+  {
+    "mealName": "Whole Grain Cereal with Almond Milk and Fresh Berries",
+    "mealType": "breakfast",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 bowl",
+    "calories": 270,
+    "carbs": 45,
+    "fat": 3,
+    "protein": 9
+  },
+  {
+    "mealName": "Chicken, Rice and Spinach",
+    "mealType": "lunch",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 plate",
+    "calories": 550,
+    "carbs": 45,
+    "fat": 20,
+    "protein": 40
+  },
+  {
+    "mealName": "Turkey Sandwich with Whole Grain Bread and Veggies",
+    "mealType": "lunch",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 sandwich",
+    "calories": 340,
+    "carbs": 46,
+    "fat": 9,
+    "protein": 25
+  },
+  {
+    "mealName": "Quinoa Salad with Grilled Chicken",
+    "mealType": "lunch",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 bowl",
+    "calories": 500,
+    "carbs": 40,
+    "fat": 20,
+    "protein": 35
+  },
+  {
+    "mealName": "Vegetable Stir Fry with Tofu",
+    "mealType": "lunch",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 plate",
+    "calories": 400,
+    "carbs": 45,
+    "fat": 15,
+    "protein": 18
+  },
+  {
+    "mealName": "Spinach and Feta Cheese Wrap",
+    "mealType": "lunch",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 wrap",
+    "calories": 300,
+    "carbs": 33,
+    "fat": 14,
+    "protein": 16
+  },
+  {
+    "mealName": "Salmon, Quinoa and Steamed Broccoli",
+    "mealType": "dinner",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 plate",
+    "calories": 600,
+    "carbs": 38,
+    "fat": 24,
+    "protein": 45
+  },
+  {
+    "mealName": "Grilled Shrimp and Vegetable Stir Fry",
+    "mealType": "dinner",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 plate",
+    "calories": 400,
+    "carbs": 30,
+    "fat": 12,
+    "protein": 45
+  },
+  {
+    "mealName": "Steak, Sweet Potato Fries and Asparagus",
+    "mealType": "dinner",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 plate",
+    "calories": 650,
+    "carbs": 50,
+    "fat": 25,
+    "protein": 50
+  },
+  {
+    "mealName": "Baked Chicken with Roasted Vegetables",
+    "mealType": "dinner",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 plate",
+    "calories": 450,
+    "carbs": 30,
+    "fat": 15,
+    "protein": 40
+  },
+  {
+    "mealName": "Lentil Soup with Whole Grain Bread",
+    "mealType": "dinner",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 bowl",
+    "calories": 350,
+    "carbs": 50,
+    "fat": 3,
+    "protein": 20
+  },
+  {
+    "mealName": "Protein Bar",
+    "mealType": "snack",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 bar",
+    "calories": 200,
+    "carbs": 24,
+    "fat": 7,
+    "protein": 20
+  },
+  {
+    "mealName": "Fresh Fruit Salad",
+    "mealType": "snack",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 bowl",
+    "calories": 150,
+    "carbs": 36,
+    "fat": 0,
+    "protein": 2
+  },
+  {
+    "mealName": "Mixed Nuts",
+    "mealType": "snack",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 small bowl",
+    "calories": 300,
+    "carbs": 10,
+    "fat": 28,
+    "protein": 7
+  },
+  {
+    "mealName": "Greek Yogurt with Granola",
+    "mealType": "snack",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 bowl",
+    "calories": 220,
+    "carbs": 25,
+    "fat": 6,
+    "protein": 15
+  },
+  {
+    "mealName": "Hummus with Veggie Sticks",
+    "mealType": "snack",
+    "mealImage": "src/assets/icons/dish.svg",
+    "servingSize": "1 serving",
+    "calories": 150,
+    "carbs": 20,
+    "fat": 6,
+    "protein": 6
+  }
+]
